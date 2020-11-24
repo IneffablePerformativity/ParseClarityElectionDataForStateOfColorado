@@ -1,0 +1,2567 @@
+discardStraightPartyVotes = True
+Across the 64 localities of StateOfColorado, the BIDEN vote differs from other DEMOCRAT races as: mean = PLUS 3.01% of total votes in locality, with standard deviation = 0.26%.
+Across the 64 localities of StateOfColorado, the TRUMP vote differs from other REPUBLICAN races as: mean = MINUS 1.15% of total votes in locality, with standard deviation = 0.37%.
+
+==========
+locality: Adams
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+contest: Representative to the 117th United States Congress - District 6
+choice (REP): Steve House
+choice (DEM): Jason Crow
+choice (UNI): Jaimie Lynn Kulikowski
+choice (LBR): Norm Olsen
+
+contest: Representative to the 117th United States Congress - District 7
+choice (REP): Charles ''Casper'' Stockham
+choice (DEM): Ed Perlmutter
+choice (UNI): David Olszta
+choice (LBR): Ken Biles
+
+==========
+locality: Alamosa
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Arapahoe
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 1
+choice (REP): Shane Bolling
+choice (DEM): Diana DeGette
+choice (UNI): Paul Noel Fiorino
+choice (AVP): Jan Kok
+choice (LBR): Kyle Furey
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+contest: Representative to the 117th United States Congress - District 6
+choice (REP): Steve House
+choice (DEM): Jason Crow
+choice (UNI): Jaimie Lynn Kulikowski
+choice (LBR): Norm Olsen
+
+==========
+locality: Archuleta
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Baca
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Bent
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Boulder
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 2
+choice (DEM): Joe Neguse
+choice (REP): Charlie Winn
+choice (LBR): Thom Atkinson
+choice (UNI): Gary Swing
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Broomfield
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 2
+choice (DEM): Joe Neguse
+choice (REP): Charlie Winn
+choice (LBR): Thom Atkinson
+choice (UNI): Gary Swing
+
+==========
+locality: Chaffee
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 5
+choice (REP): Doug Lamborn
+choice (DEM): Jillian Freeland
+choice (LBR): Ed Duffett
+choice (UNI): Rebecca Keltie
+choice (UAF): Marcus Allen Murphy
+
+==========
+locality: Cheyenne
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Clear Creek
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 2
+choice (DEM): Joe Neguse
+choice (REP): Charlie Winn
+choice (LBR): Thom Atkinson
+choice (UNI): Gary Swing
+
+==========
+locality: Conejos
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Costilla
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Crowley
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Custer
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Delta
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Denver
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 1
+choice (REP): Shane Bolling
+choice (DEM): Diana DeGette
+choice (UNI): Paul Noel Fiorino
+choice (AVP): Jan Kok
+choice (LBR): Kyle Furey
+
+==========
+locality: Dolores
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Douglas
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+contest: Representative to the 117th United States Congress - District 6
+choice (REP): Steve House
+choice (DEM): Jason Crow
+choice (UNI): Jaimie Lynn Kulikowski
+choice (LBR): Norm Olsen
+
+==========
+locality: Eagle
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 2
+choice (DEM): Joe Neguse
+choice (REP): Charlie Winn
+choice (LBR): Thom Atkinson
+choice (UNI): Gary Swing
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: El Paso
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 5
+choice (REP): Doug Lamborn
+choice (DEM): Jillian Freeland
+choice (LBR): Ed Duffett
+choice (UNI): Rebecca Keltie
+choice (UAF): Marcus Allen Murphy
+
+==========
+locality: Elbert
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Fremont
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 5
+choice (REP): Doug Lamborn
+choice (DEM): Jillian Freeland
+choice (LBR): Ed Duffett
+choice (UNI): Rebecca Keltie
+choice (UAF): Marcus Allen Murphy
+
+==========
+locality: Garfield
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Gilpin
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 2
+choice (DEM): Joe Neguse
+choice (REP): Charlie Winn
+choice (LBR): Thom Atkinson
+choice (UNI): Gary Swing
+
+==========
+locality: Grand
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 2
+choice (DEM): Joe Neguse
+choice (REP): Charlie Winn
+choice (LBR): Thom Atkinson
+choice (UNI): Gary Swing
+
+==========
+locality: Gunnison
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Hinsdale
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Huerfano
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Jackson
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Jefferson
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 1
+choice (REP): Shane Bolling
+choice (DEM): Diana DeGette
+choice (UNI): Paul Noel Fiorino
+choice (AVP): Jan Kok
+choice (LBR): Kyle Furey
+
+contest: Representative to the 117th United States Congress - District 2
+choice (DEM): Joe Neguse
+choice (REP): Charlie Winn
+choice (LBR): Thom Atkinson
+choice (UNI): Gary Swing
+
+contest: Representative to the 117th United States Congress - District 7
+choice (REP): Charles ''Casper'' Stockham
+choice (DEM): Ed Perlmutter
+choice (UNI): David Olszta
+choice (LBR): Ken Biles
+
+==========
+locality: Kiowa
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Kit Carson
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: La Plata
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Lake
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Larimer
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 2
+choice (DEM): Joe Neguse
+choice (REP): Charlie Winn
+choice (LBR): Thom Atkinson
+choice (UNI): Gary Swing
+
+==========
+locality: Las Animas
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Lincoln
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Logan
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Mesa
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Mineral
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Moffat
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Montezuma
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Montrose
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Morgan
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Otero
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Ouray
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Park
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 2
+choice (DEM): Joe Neguse
+choice (REP): Charlie Winn
+choice (LBR): Thom Atkinson
+choice (UNI): Gary Swing
+
+contest: Representative to the 117th United States Congress - District 5
+choice (REP): Doug Lamborn
+choice (DEM): Jillian Freeland
+choice (LBR): Ed Duffett
+choice (UNI): Rebecca Keltie
+choice (UAF): Marcus Allen Murphy
+
+==========
+locality: Phillips
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Pitkin
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Prowers
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Pueblo
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Rio Blanco
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Rio Grande
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Routt
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Saguache
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: San Juan
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: San Miguel
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 3
+choice (REP): Lauren Boebert
+choice (DEM): Diane E. Mitsch Bush
+choice (LBR): John Ryan Keil
+choice (UNI): Critter Milton
+
+==========
+locality: Sedgwick
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Summit
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 2
+choice (DEM): Joe Neguse
+choice (REP): Charlie Winn
+choice (LBR): Thom Atkinson
+choice (UNI): Gary Swing
+
+==========
+locality: Teller
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 5
+choice (REP): Doug Lamborn
+choice (DEM): Jillian Freeland
+choice (LBR): Ed Duffett
+choice (UNI): Rebecca Keltie
+choice (UAF): Marcus Allen Murphy
+
+==========
+locality: Washington
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Weld
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
+
+==========
+locality: Yuma
+
+contest: Presidential Electors
+choice (DEM): Joseph R. Biden / Kamala D. Harris
+choice (REP): Donald J. Trump / Michael R. Pence
+choice (ACN): Don Blankenship / William Mohr
+choice (UNI): Bill Hammons / Eric Bodenstab
+choice (GRN): Howie Hawkins / Angela Nicole Walker
+choice (AVP): Blake Huber / Frank Atwood
+choice (LBR): Jo Jorgensen / Jeremy ''Spike'' Cohen
+choice (ASP): Brian Carroll / Amar Patel
+choice (UAF): Mark Charles / Adrian Wallace
+choice (PRO): Phil Collins / Billy Joe Parker
+choice (ALL): Roque ''Rocky'' De La Fuente / Darcy G. Richardson
+choice (PRG): Dario Hunter / Dawn Neptune Adams
+choice (UAF): Princess Khadijah Maryam Jacob-Fambro / Khadijah Maryam Jacob Sr.
+choice (SWP): Alyson Kennedy / Malcolm Jarrett
+choice (SEP): Joseph Kishore / Norissa Santa Cruz
+choice (IAP): Kyle Kenley Kopitke / Nathan Re Vo Sorenson
+choice (SAL): Gloria La Riva / Sunil Freeman
+choice (UAF): Joe McHugh / Elizabeth Storm
+choice (UAF): Brock Pierce / Karla Ballard
+choice (UAF): Jordan ''Cancer'' Scott / Jennifer Tepool
+choice (UAF): Kanye West / Michelle Tidball
+
+contest: United States Senator
+choice (DEM): John W. Hickenlooper
+choice (REP): Cory Gardner
+choice (AVP): Daniel Doyle
+choice (UNI): Stephan ''Seku'' Evans
+choice (LBR): Raymon Anthony Doane
+
+contest: Representative to the 117th United States Congress - District 4
+choice (DEM): Ike McCorkle
+choice (REP): Ken Buck
+choice (LBR): Bruce Griffith
+choice (UNI): Laura Ireland
