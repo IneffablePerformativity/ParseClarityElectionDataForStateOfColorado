@@ -1,0 +1,13 @@
+Across the 64 localities of StateOfColorado, the BIDEN vote differs from other DEMOCRAT races as: mean = PLUS 1.3% of total votes in locality, with standard deviation = 1.04%.
+Across the 64 localities of StateOfColorado, the TRUMP vote differs from other REPUBLICAN races as: mean = MINUS 0.63% of total votes in locality, with standard deviation = 1.38%.
+possibleConclusionText BIDEN BONUS = PLUS 1.3%, StdDev 1.04; TRUMP BONUS = MINUS 0.63%, StdDev 1.38
+MARKING AN X ON [Boulder] for shifting 9356 votes.
+MARKING AN X ON [Jefferson] for shifting 17636 votes.
+MARKING AN X ON [ElPaso] for shifting 19002 votes.
+MARKING AN X ON [Summit] for shifting 951 votes.
+MARKING AN X ON [Arapahoe] for shifting 18943 votes.
+MARKING AN X ON [Yuma] for shifting 298 votes.
+MARKING AN X ON [Broomfield] for shifting 3189 votes.
+MARKING AN X ON [Douglas] for shifting 15874 votes.
+finalConclusion = THE BLACK X'S (SORTED TO THE RIGHT) MARK 8 BIGGEST SPOTS OF THEFT OVER 4% WORTH 85249 VOTES. SEE LOG FOR LOCALITY NAMES.
+Note that all items omitted above affect the CSV as well as the PNG.
